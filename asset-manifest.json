@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f26b79e5.css",
+    "main.js": "/react-gh-pages/static/js/main.ab1658bd.js",
+    "static/media/john-doe2.png": "/react-gh-pages/static/media/john-doe2.14bd9067715ce4cbf54f.png",
+    "static/media/hero3.jpg": "/react-gh-pages/static/media/hero3.602ff25b60234e619da9.jpg",
+    "static/media/logo5.png": "/react-gh-pages/static/media/logo5.2e274e2a3876c4b62a75.png",
+    "static/media/user4.jpg": "/react-gh-pages/static/media/user4.7b3f92ba25feb2a794b6.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f26b79e5.css.map": "/react-gh-pages/static/css/main.f26b79e5.css.map",
+    "main.ab1658bd.js.map": "/react-gh-pages/static/js/main.ab1658bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26b79e5.css",
+    "static/js/main.ab1658bd.js"
+  ]
+}
