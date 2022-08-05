@@ -1,0 +1,99 @@
+.contact {
+    margin: 5rem auto;
+    /* background: url('/src/components/images/contact8.png') no-repeat center center/cover;  */
+    color: #fff;
+    height: 100vh;
+    position: relative;
+
+}
+
+.contact .container {
+    width: 1240px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.contact .container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact .top {
+    margin-top: 7rem;
+    color: #000000;
+}
+.contact .bottom {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 4rem;
+}
+
+.contact form {
+    max-width: 600px;
+    width: 100%;
+}
+
+.contact form div {
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+}
+
+.contact form label {
+    margin: 1rem 0 .2rem .7rem;
+    color: rgb(0, 0, 0);
+}
+
+
+.contact form input, textarea {
+    margin: 0rem;
+    padding: .6rem 1.5rem;
+    background: rgba(234, 234, 234, 10);
+    border: none;
+    border-radius: 15px;
+    color: #000000;
+    font-size: 1rem;
+    outline: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.contact form input:hover, textarea:hover {
+    box-shadow: 0 0 4px 0;
+}
+
+.contact form input::placeholder, textarea::placeholder {
+    color: #333;
+}
+
+
+@media screen and (max-width: 940px) {
+    .contact .container {
+        max-width: 100%;
+        grid-template-columns: 1fr;
+        grid-gap: 30px;
+    }
+
+    .contact iframe {
+        width: 100%;
+        height: auto;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
