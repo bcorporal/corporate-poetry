@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/corporate-poetry/static/css/main.d378c5aa.css",
-    "main.js": "/corporate-poetry/static/js/main.d36675a6.js",
+    "main.js": "/corporate-poetry/static/js/main.0237327c.js",
     "static/media/dc2.png": "/corporate-poetry/static/media/dc2.b5deef413f511685d6c4.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/corporate-poetry/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/hero3.jpg": "/corporate-poetry/static/media/hero3.602ff25b60234e619da9.jpg",
@@ -15,10 +15,10 @@
     "static/media/user4.jpg": "/corporate-poetry/static/media/user4.7b3f92ba25feb2a794b6.jpg",
     "index.html": "/corporate-poetry/index.html",
     "main.d378c5aa.css.map": "/corporate-poetry/static/css/main.d378c5aa.css.map",
-    "main.d36675a6.js.map": "/corporate-poetry/static/js/main.d36675a6.js.map"
+    "main.0237327c.js.map": "/corporate-poetry/static/js/main.0237327c.js.map"
   },
   "entrypoints": [
     "static/css/main.d378c5aa.css",
-    "static/js/main.d36675a6.js"
+    "static/js/main.0237327c.js"
   ]
 }
