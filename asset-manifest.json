@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/corporate-poetry/static/css/main.8c2796dc.css",
-    "main.js": "/corporate-poetry/static/js/main.ddef8330.js",
+    "main.css": "/corporate-poetry/static/css/main.d378c5aa.css",
+    "main.js": "/corporate-poetry/static/js/main.d36675a6.js",
+    "static/media/dc2.png": "/corporate-poetry/static/media/dc2.b5deef413f511685d6c4.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/corporate-poetry/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/hero3.jpg": "/corporate-poetry/static/media/hero3.602ff25b60234e619da9.jpg",
-    "static/media/john-doe.png": "/corporate-poetry/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/fontawesome-webfont.eot": "/corporate-poetry/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/corporate-poetry/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/corporate-poetry/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/corporate-poetry/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/logo5.png": "/corporate-poetry/static/media/logo5.2e274e2a3876c4b62a75.png",
+    "static/media/user5.jpg": "/corporate-poetry/static/media/user5.1bd7dd6382b12b71bed2.jpg",
+    "static/media/user6.jpg": "/corporate-poetry/static/media/user6.7befd9a59b3f33d5f211.jpg",
     "static/media/user4.jpg": "/corporate-poetry/static/media/user4.7b3f92ba25feb2a794b6.jpg",
     "index.html": "/corporate-poetry/index.html",
-    "main.8c2796dc.css.map": "/corporate-poetry/static/css/main.8c2796dc.css.map",
-    "main.ddef8330.js.map": "/corporate-poetry/static/js/main.ddef8330.js.map"
+    "main.d378c5aa.css.map": "/corporate-poetry/static/css/main.d378c5aa.css.map",
+    "main.d36675a6.js.map": "/corporate-poetry/static/js/main.d36675a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c2796dc.css",
-    "static/js/main.ddef8330.js"
+    "static/css/main.d378c5aa.css",
+    "static/js/main.d36675a6.js"
   ]
 }
